@@ -186,6 +186,8 @@ main {
     color: #fafafa;
 }
 
+/*New page Gallery*/
+#photos {width:100%}
 /* Footer */
 #social-networks {
     text-align: center;
